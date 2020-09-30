@@ -3,11 +3,11 @@ This repository contains analysis conducted for the final project for 'Getting a
 
 The purpose of this project was to collect and clean a data set to attain a tidy data set ready to be used for further analysis. 
 
-##Data
+## Data
 The data for this project contains data collected from the accelerometers from the Samsung Galaxy S smartphone, acquired from
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-##Analysis and Code
+## Analysis and Code
 The goal of the project is to create a tidy dataset, create a code that gets the following deliverables as given in the course instruction, 
 
 1) Merges the training and the test sets to create one data set.
