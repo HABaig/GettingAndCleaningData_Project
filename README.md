@@ -12,6 +12,7 @@ The reposiroty contains the following files.
  * README.md      : Markdown file (this file) with description and                          outline for analysis and data.
  * Run_analysis.R : R code for downloading and cleaning data.
  * TidyData.txt   : Text file containing resultant 'tidy' data.
+ * CodeBook.md    : Markdown file containing the details for data, variables and the analysis.
 
 ## Data
 The data for this project contains data collected from the accelerometers from the Samsung Galaxy S smartphone, acquired from
