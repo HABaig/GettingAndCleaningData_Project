@@ -8,6 +8,11 @@ This repository contains analysis conducted for the final project for 'Getting a
 
 The purpose of this project was to collect and clean a data set to attain a tidy data set ready to be used for further analysis. 
 
+The reposiroty contains the following files.
+ * README.md      : Markdown file (this file) with description and                          outline for analysis and data.
+ * Run_analysis.R : R code for downloading and cleaning data.
+ * TidyData.txt   : Text file containing resultant 'tidy' data.
+
 ## Data
 The data for this project contains data collected from the accelerometers from the Samsung Galaxy S smartphone, acquired from
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
